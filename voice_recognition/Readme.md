@@ -19,7 +19,7 @@
 - 音频中如果语音停顿过长，停顿后面的部分就不再识别了。
 ## Goolge API
 ### 设置
-官方并不Quick的 [Quickstart](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries#client-libraries-install-python)，大致需要
+官方并不 Quick 的 [Quickstart](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries#client-libraries-install-python)，大致需要
 - 在Google CLoud 平台 Set up a GCP Console project.
 - 设置  environment variable GOOGLE_APPLICATION_CREDENTIALS
 - 安装 Google Cloud SDK
