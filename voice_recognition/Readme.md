@@ -7,9 +7,9 @@ https://doc.xfyun.cn/rest_api/%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99.htm
 - 
 
 ### 一些限制
-- 免费版每天限制500条？？（记不清了）
+- 免费版每天限制500条
 - base64 编码和 urlencode 后大小不超过**2M**，原始音频时长不超过**60s**
-- 格式？
+- 格式 (mp3, wave, m4a, flac, opus)
 - 音频参数	数值
     - 音频长度（Input Length）	≤60s
     - 采样率（Sampling Rate）	支持**8KHz和16KHz**
