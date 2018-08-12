@@ -1,6 +1,7 @@
 # 语音转文字： API调用程序技术细节
 ## 讯飞API
-### [官方文档](https://doc.xfyun.cn/rest_api/%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99.htm)
+### 官方文档
+https://doc.xfyun.cn/rest_api/%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99.htm
 ### 设置
 - 讯飞账户中需要将运行程序的电脑加入ip白名单
 - 
