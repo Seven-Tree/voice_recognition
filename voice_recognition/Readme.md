@@ -4,7 +4,8 @@
 https://doc.xfyun.cn/rest_api/%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99.htm
 ### 设置
 - 讯飞账户中需要将运行程序的电脑加入ip白名单
-- 
+- 免费版只能设置5个不同IP
+- HTTP post 需要APPID 和 APIKey
 
 ### 一些限制
 - 免费版每天限制500条
